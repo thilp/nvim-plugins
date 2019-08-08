@@ -1,0 +1,24 @@
+[submodule "foo/opt/semshi"]
+	path = foo/opt/semshi
+	url = git@github.com:numirias/semshi.git
+[submodule "foo/opt/rainbow"]
+	path = foo/opt/rainbow
+	url = git@github.com:luochen1990/rainbow.git
+[submodule "foo/start/tender.vim"]
+	path = foo/start/tender.vim
+	url = git@github.com:jacoborus/tender.vim.git
+[submodule "foo/start/ale"]
+	path = foo/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "foo/start/vim-highlightedyank"]
+	path = foo/start/vim-highlightedyank
+	url = git@github.com:machakann/vim-highlightedyank.git
+[submodule "foo/start/vim-tmux-clipboard"]
+	path = foo/start/vim-tmux-clipboard
+	url = git@github.com:roxma/vim-tmux-clipboard.git
+[submodule "foo/start/commentary"]
+	path = foo/start/commentary
+	url = https://tpope.io/vim/commentary.git
+[submodule "foo/start/fugitive"]
+	path = foo/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
