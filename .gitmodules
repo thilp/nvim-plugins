@@ -22,6 +22,6 @@
 [submodule "foo/start/fugitive"]
 	path = foo/start/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "foo/opt/vim-fish"]
-	path = foo/opt/vim-fish
+[submodule "foo/start/vim-fish"]
+	path = foo/start/vim-fish
 	url = git@github.com:dag/vim-fish.git
