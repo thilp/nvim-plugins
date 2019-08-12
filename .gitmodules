@@ -25,3 +25,6 @@
 [submodule "foo/start/vim-fish"]
 	path = foo/start/vim-fish
 	url = git@github.com:dag/vim-fish.git
+[submodule "foo/start/vim-toml"]
+	path = foo/start/vim-toml
+	url = https://github.com/cespare/vim-toml.git
